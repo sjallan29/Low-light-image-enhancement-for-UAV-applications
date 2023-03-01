@@ -1,1 +1,1 @@
-# Low-light-image-enhancement-for-UAV-applications
+# Low-light-image-enhancement-using-CNN-architectures-for-UAV-applications
